@@ -1,0 +1,8 @@
+name: ekey home converter LAN RS-485
+url: 'https://github.com/ochorocho/ekey_home_rs485'
+maintainer: Jochen Roth <rothjochen@gmail.com>
+addons:
+  - name: pico_distance
+    version: "1.0.0"
+    url: https://github.com/ochorocho/pico_distance_component/archive/refs/tags/1.0.0.tar.gz
+    description: Read values from pico-distance (HC-SR04) sensor
