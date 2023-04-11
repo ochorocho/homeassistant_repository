@@ -1,5 +1,5 @@
-name: ekey home converter LAN RS-485
-url: 'https://github.com/ochorocho/ekey_home_rs485'
+name: Ochorocho's private repository
+url: 'https://github.com/ochorocho/homeassistant_repository'
 maintainer: Jochen Roth <rothjochen@gmail.com>
 addons:
   - name: pico_distance
