@@ -1,8 +1,0 @@
-name: Ochorocho's private repository
-url: 'https://github.com/ochorocho/homeassistant_repository'
-maintainer: Jochen Roth <rothjochen@gmail.com>
-addons:
-  - name: pico_distance
-    version: "1.0.0"
-    url: https://github.com/ochorocho/pico_distance_component/archive/refs/tags/1.0.0.tar.gz
-    description: Read values from pico-distance (HC-SR04) sensor

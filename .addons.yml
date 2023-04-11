@@ -1,0 +1,6 @@
+---
+channel: stable
+addons:
+  pico_distance:
+    repository: ochorocho/pico_distance_component
+    target: pico_distance
